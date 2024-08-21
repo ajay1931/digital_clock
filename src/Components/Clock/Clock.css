@@ -1,0 +1,19 @@
+.clock{
+    background-color: rgb(83, 82, 82);
+    color: white;
+    padding: 10px 30px;
+    width: fit-content;
+    border-radius: 5px;
+
+
+}
+.clock_heading{
+    text-align: center;
+    padding: 20px;
+    font-size: 60px;
+}
+.clock_format{
+    text-align: center;
+    letter-spacing: 1px;
+    padding-bottom: 10px;
+}
