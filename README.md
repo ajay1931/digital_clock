@@ -1,4 +1,4 @@
-#Digital Clock
+# Digital Clock
 ## Introduction
 The Digital Clock is a React-based web application that displays the current time, date, and day of the week. The clock updates every second and formats the time in a 12-hour format with AM/PM indicators.
 ## Features
